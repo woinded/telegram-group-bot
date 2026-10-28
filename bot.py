@@ -12,7 +12,7 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-TOKEN = os.getenv("BOT_TOKEN", "").strip()
+TOKEN = os.getenv("9184676272:AAEnIbkzhlc5uFRThTZvIU2QGYJSmeqZQDo", "").strip()
 ADMIN_ID = os.getenv("ADMIN_ID", "").strip()
 
 WELCOME = (
